@@ -1,6 +1,6 @@
 # addChildAbuse
 Child Safety & CSAE (Child Sexual Abuse and Exploitation) Policy
-At Rajesh Dada App, we are fully committed to ensuring a safe and respectful environment for all users. We have a zero-tolerance policy toward child sexual abuse and exploitation (CSAE), including any content, communication, or behavior that promotes or enables such activity.
+At Rajesh Dada Padvi, we are fully committed to ensuring a safe and respectful environment for all users. We have a zero-tolerance policy toward child sexual abuse and exploitation (CSAE), including any content, communication, or behavior that promotes or enables such activity.
 Our Commitment
 - We do not allow any form of content or behavior that involves or promotes CSAE.
 - We actively monitor and take prompt action to detect and remove any such material.
